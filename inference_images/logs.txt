@@ -1,3 +1,4 @@
+Ground Truth: 26
 -----------------Processing output_517_912.jpg-------------------------
 Rect 0 (left, top, right, bottom): (544, 17, 569, 90), Area: 1825
 Rect 1 (left, top, right, bottom): (84, 14, 104, 79), Area: 1300
@@ -29,8 +30,10 @@ Rect 26 (left, top, right, bottom): (244, 365, 271, 447), Area: 2214
 Rect 27 (left, top, right, bottom): (202, 349, 224, 429), Area: 1760
 Rect 28 (left, top, right, bottom): (315, 390, 350, 474), Area: 2940
 Rect 29 (left, top, right, bottom): (375, 387, 407, 485), Area: 3136
+Confidence Level: 1.1538461538461537
 -----------------Done output_517_912.jpg-------------------------
 -----------------Processing output_27_48.jpg-------------------------
+Confidence Level: 0.0
 -----------------Done output_27_48.jpg-------------------------
 -----------------Processing output_326_576.jpg-------------------------
 Rect 0 (left, top, right, bottom): (521, 111, 537, 156), Area: 720
@@ -54,6 +57,7 @@ Rect 17 (left, top, right, bottom): (304, 320, 318, 369), Area: 686
 Rect 18 (left, top, right, bottom): (330, 330, 348, 380), Area: 900
 Rect 19 (left, top, right, bottom): (413, 346, 432, 404), Area: 1102
 Rect 20 (left, top, right, bottom): (375, 347, 396, 398), Area: 1071
+Confidence Level: 0.8076923076923077
 -----------------Done output_326_576.jpg-------------------------
 -----------------Processing output_354_624.jpg-------------------------
 Rect 0 (left, top, right, bottom): (525, 97, 542, 146), Area: 833
@@ -78,6 +82,7 @@ Rect 18 (left, top, right, bottom): (290, 324, 305, 378), Area: 810
 Rect 19 (left, top, right, bottom): (318, 336, 336, 388), Area: 936
 Rect 20 (left, top, right, bottom): (367, 352, 390, 408), Area: 1288
 Rect 21 (left, top, right, bottom): (407, 350, 429, 415), Area: 1430
+Confidence Level: 0.8461538461538461
 -----------------Done output_354_624.jpg-------------------------
 -----------------Processing output_544_960.jpg-------------------------
 Rect 0 (left, top, right, bottom): (65, -3, 85, 68), Area: 1420
@@ -104,6 +109,7 @@ Rect 20 (left, top, right, bottom): (189, 353, 212, 436), Area: 1909
 Rect 21 (left, top, right, bottom): (232, 370, 261, 457), Area: 2523
 Rect 22 (left, top, right, bottom): (369, 392, 403, 493), Area: 3434
 Rect 23 (left, top, right, bottom): (306, 395, 344, 484), Area: 3382
+Confidence Level: 0.9230769230769231
 -----------------Done output_544_960.jpg-------------------------
 -----------------Processing output_490_864.jpg-------------------------
 Rect 0 (left, top, right, bottom): (542, 31, 564, 99), Area: 1496
@@ -130,8 +136,10 @@ Rect 20 (left, top, right, bottom): (217, 346, 237, 422), Area: 1520
 Rect 21 (left, top, right, bottom): (256, 361, 282, 437), Area: 1976
 Rect 22 (left, top, right, bottom): (381, 380, 410, 472), Area: 2668
 Rect 23 (left, top, right, bottom): (324, 382, 357, 461), Area: 2607
+Confidence Level: 0.9230769230769231
 -----------------Done output_490_864.jpg-------------------------
 -----------------Processing output_136_240.jpg-------------------------
+Confidence Level: 0.0
 -----------------Done output_136_240.jpg-------------------------
 -----------------Processing output_299_528.jpg-------------------------
 Rect 0 (left, top, right, bottom): (369, 176, 383, 216), Area: 560
@@ -156,6 +164,7 @@ Rect 18 (left, top, right, bottom): (341, 326, 357, 372), Area: 736
 Rect 19 (left, top, right, bottom): (385, 341, 403, 386), Area: 810
 Rect 20 (left, top, right, bottom): (385, 340, 402, 387), Area: 799
 Rect 21 (left, top, right, bottom): (418, 342, 438, 393), Area: 1020
+Confidence Level: 0.8461538461538461
 -----------------Done output_299_528.jpg-------------------------
 -----------------Processing output_245_432.jpg-------------------------
 Rect 0 (left, top, right, bottom): (389, 193, 400, 226), Area: 363
@@ -178,6 +187,7 @@ Rect 16 (left, top, right, bottom): (367, 316, 379, 353), Area: 444
 Rect 17 (left, top, right, bottom): (403, 327, 416, 366), Area: 507
 Rect 18 (left, top, right, bottom): (414, 328, 427, 366), Area: 494
 Rect 19 (left, top, right, bottom): (414, 328, 425, 368), Area: 440
+Confidence Level: 0.7692307692307693
 -----------------Done output_245_432.jpg-------------------------
 -----------------Processing output_435_768.jpg-------------------------
 Rect 0 (left, top, right, bottom): (147, 55, 163, 110), Area: 880
@@ -204,12 +214,14 @@ Rect 20 (left, top, right, bottom): (245, 337, 265, 403), Area: 1320
 Rect 21 (left, top, right, bottom): (280, 351, 305, 420), Area: 1725
 Rect 22 (left, top, right, bottom): (340, 372, 369, 442), Area: 2030
 Rect 23 (left, top, right, bottom): (392, 368, 417, 452), Area: 2100
+Confidence Level: 0.9230769230769231
 -----------------Done output_435_768.jpg-------------------------
 -----------------Processing output_163_288.jpg-------------------------
 Rect 0 (left, top, right, bottom): (441, 215, 455, 251), Area: 504
 Rect 1 (left, top, right, bottom): (469, 242, 480, 267), Area: 275
 Rect 2 (left, top, right, bottom): (480, 250, 491, 272), Area: 242
 Rect 3 (left, top, right, bottom): (498, 249, 508, 274), Area: 250
+Confidence Level: 0.15384615384615385
 -----------------Done output_163_288.jpg-------------------------
 -----------------Processing output_381_672.jpg-------------------------
 Rect 0 (left, top, right, bottom): (529, 84, 547, 137), Area: 954
@@ -238,6 +250,7 @@ Rect 22 (left, top, right, bottom): (305, 341, 327, 399), Area: 1276
 Rect 23 (left, top, right, bottom): (358, 359, 382, 421), Area: 1488
 Rect 24 (left, top, right, bottom): (402, 358, 425, 426), Area: 1564
 Rect 25 (left, top, right, bottom): (402, 358, 424, 427), Area: 1518
+Confidence Level: 1.0
 -----------------Done output_381_672.jpg-------------------------
 -----------------Processing output_462_816.jpg-------------------------
 Rect 0 (left, top, right, bottom): (126, 41, 144, 99), Area: 1044
@@ -266,8 +279,10 @@ Rect 22 (left, top, right, bottom): (491, 321, 520, 389), Area: 1972
 Rect 23 (left, top, right, bottom): (269, 357, 293, 428), Area: 1704
 Rect 24 (left, top, right, bottom): (333, 378, 364, 453), Area: 2325
 Rect 25 (left, top, right, bottom): (386, 374, 415, 462), Area: 2552
+Confidence Level: 1.0
 -----------------Done output_462_816.jpg-------------------------
 -----------------Processing output_54_96.jpg-------------------------
+Confidence Level: 0.0
 -----------------Done output_54_96.jpg-------------------------
 -----------------Processing output_408_720.jpg-------------------------
 Rect 0 (left, top, right, bottom): (168, 67, 184, 120), Area: 848
@@ -296,6 +311,7 @@ Rect 22 (left, top, right, bottom): (260, 333, 278, 394), Area: 1098
 Rect 23 (left, top, right, bottom): (292, 346, 315, 408), Area: 1426
 Rect 24 (left, top, right, bottom): (349, 365, 376, 431), Area: 1782
 Rect 25 (left, top, right, bottom): (397, 361, 423, 437), Area: 1976
+Confidence Level: 1.0
 -----------------Done output_408_720.jpg-------------------------
 -----------------Processing output_218_384.jpg-------------------------
 Rect 0 (left, top, right, bottom): (341, 224, 355, 262), Area: 532
@@ -313,8 +329,10 @@ Rect 11 (left, top, right, bottom): (428, 261, 439, 293), Area: 352
 Rect 12 (left, top, right, bottom): (310, 282, 324, 313), Area: 434
 Rect 13 (left, top, right, bottom): (338, 295, 351, 329), Area: 442
 Rect 14 (left, top, right, bottom): (358, 303, 373, 337), Area: 510
+Confidence Level: 0.5769230769230769
 -----------------Done output_218_384.jpg-------------------------
 -----------------Processing output_82_144.jpg-------------------------
+Confidence Level: 0.0
 -----------------Done output_82_144.jpg-------------------------
 -----------------Processing output_190_336.jpg-------------------------
 Rect 0 (left, top, right, bottom): (434, 206, 448, 247), Area: 574
@@ -330,8 +348,10 @@ Rect 9 (left, top, right, bottom): (419, 259, 431, 286), Area: 324
 Rect 10 (left, top, right, bottom): (418, 259, 430, 287), Area: 336
 Rect 11 (left, top, right, bottom): (433, 263, 448, 295), Area: 480
 Rect 12 (left, top, right, bottom): (454, 274, 469, 299), Area: 375
+Confidence Level: 0.5
 -----------------Done output_190_336.jpg-------------------------
 -----------------Processing output_109_192.jpg-------------------------
+Confidence Level: 0.0
 -----------------Done output_109_192.jpg-------------------------
 -----------------Processing output_272_480.jpg-------------------------
 Rect 0 (left, top, right, bottom): (378, 184, 391, 219), Area: 455
@@ -361,5 +381,6 @@ Rect 23 (left, top, right, bottom): (355, 321, 369, 363), Area: 588
 Rect 24 (left, top, right, bottom): (482, 299, 501, 342), Area: 817
 Rect 25 (left, top, right, bottom): (393, 332, 411, 377), Area: 810
 Rect 26 (left, top, right, bottom): (424, 334, 442, 381), Area: 846
+Confidence Level: 1.0384615384615385
 -----------------Done output_272_480.jpg-------------------------
 Smallest Area: 242
