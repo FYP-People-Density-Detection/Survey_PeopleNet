@@ -30,9 +30,9 @@ Rect 27 (left, top, right, bottom): (202, 349, 224, 429), Area: 1760
 Rect 28 (left, top, right, bottom): (315, 390, 350, 474), Area: 2940
 Rect 29 (left, top, right, bottom): (375, 387, 407, 485), Area: 3136
 -----------------Done output_517_912.jpg-------------------------
-Smallest Area: 1300-----------------Processing output_27_48.jpg-------------------------
+-----------------Processing output_27_48.jpg-------------------------
 -----------------Done output_27_48.jpg-------------------------
-Smallest Area: 1300-----------------Processing output_326_576.jpg-------------------------
+-----------------Processing output_326_576.jpg-------------------------
 Rect 0 (left, top, right, bottom): (521, 111, 537, 156), Area: 720
 Rect 1 (left, top, right, bottom): (359, 167, 374, 210), Area: 645
 Rect 2 (left, top, right, bottom): (208, 191, 230, 242), Area: 1122
@@ -55,7 +55,7 @@ Rect 18 (left, top, right, bottom): (330, 330, 348, 380), Area: 900
 Rect 19 (left, top, right, bottom): (413, 346, 432, 404), Area: 1102
 Rect 20 (left, top, right, bottom): (375, 347, 396, 398), Area: 1071
 -----------------Done output_326_576.jpg-------------------------
-Smallest Area: 645-----------------Processing output_354_624.jpg-------------------------
+-----------------Processing output_354_624.jpg-------------------------
 Rect 0 (left, top, right, bottom): (525, 97, 542, 146), Area: 833
 Rect 1 (left, top, right, bottom): (264, 114, 280, 165), Area: 816
 Rect 2 (left, top, right, bottom): (350, 157, 365, 204), Area: 705
@@ -79,7 +79,7 @@ Rect 19 (left, top, right, bottom): (318, 336, 336, 388), Area: 936
 Rect 20 (left, top, right, bottom): (367, 352, 390, 408), Area: 1288
 Rect 21 (left, top, right, bottom): (407, 350, 429, 415), Area: 1430
 -----------------Done output_354_624.jpg-------------------------
-Smallest Area: 645-----------------Processing output_544_960.jpg-------------------------
+-----------------Processing output_544_960.jpg-------------------------
 Rect 0 (left, top, right, bottom): (65, -3, 85, 68), Area: 1420
 Rect 1 (left, top, right, bottom): (549, 2, 574, 82), Area: 2000
 Rect 2 (left, top, right, bottom): (148, 29, 171, 110), Area: 1863
@@ -105,7 +105,7 @@ Rect 21 (left, top, right, bottom): (232, 370, 261, 457), Area: 2523
 Rect 22 (left, top, right, bottom): (369, 392, 403, 493), Area: 3434
 Rect 23 (left, top, right, bottom): (306, 395, 344, 484), Area: 3382
 -----------------Done output_544_960.jpg-------------------------
-Smallest Area: 645-----------------Processing output_490_864.jpg-------------------------
+-----------------Processing output_490_864.jpg-------------------------
 Rect 0 (left, top, right, bottom): (542, 31, 564, 99), Area: 1496
 Rect 1 (left, top, right, bottom): (107, 26, 125, 90), Area: 1152
 Rect 2 (left, top, right, bottom): (182, 55, 202, 123), Area: 1360
@@ -131,9 +131,9 @@ Rect 21 (left, top, right, bottom): (256, 361, 282, 437), Area: 1976
 Rect 22 (left, top, right, bottom): (381, 380, 410, 472), Area: 2668
 Rect 23 (left, top, right, bottom): (324, 382, 357, 461), Area: 2607
 -----------------Done output_490_864.jpg-------------------------
-Smallest Area: 645-----------------Processing output_136_240.jpg-------------------------
+-----------------Processing output_136_240.jpg-------------------------
 -----------------Done output_136_240.jpg-------------------------
-Smallest Area: 645-----------------Processing output_299_528.jpg-------------------------
+-----------------Processing output_299_528.jpg-------------------------
 Rect 0 (left, top, right, bottom): (369, 176, 383, 216), Area: 560
 Rect 1 (left, top, right, bottom): (419, 168, 434, 211), Area: 645
 Rect 2 (left, top, right, bottom): (232, 199, 252, 244), Area: 900
@@ -157,7 +157,7 @@ Rect 19 (left, top, right, bottom): (385, 341, 403, 386), Area: 810
 Rect 20 (left, top, right, bottom): (385, 340, 402, 387), Area: 799
 Rect 21 (left, top, right, bottom): (418, 342, 438, 393), Area: 1020
 -----------------Done output_299_528.jpg-------------------------
-Smallest Area: 560-----------------Processing output_245_432.jpg-------------------------
+-----------------Processing output_245_432.jpg-------------------------
 Rect 0 (left, top, right, bottom): (389, 193, 400, 226), Area: 363
 Rect 1 (left, top, right, bottom): (277, 212, 294, 250), Area: 646
 Rect 2 (left, top, right, bottom): (325, 219, 339, 260), Area: 574
@@ -179,7 +179,7 @@ Rect 17 (left, top, right, bottom): (403, 327, 416, 366), Area: 507
 Rect 18 (left, top, right, bottom): (414, 328, 427, 366), Area: 494
 Rect 19 (left, top, right, bottom): (414, 328, 425, 368), Area: 440
 -----------------Done output_245_432.jpg-------------------------
-Smallest Area: 363-----------------Processing output_435_768.jpg-------------------------
+-----------------Processing output_435_768.jpg-------------------------
 Rect 0 (left, top, right, bottom): (147, 55, 163, 110), Area: 880
 Rect 1 (left, top, right, bottom): (534, 58, 556, 119), Area: 1342
 Rect 2 (left, top, right, bottom): (215, 80, 233, 141), Area: 1098
@@ -205,13 +205,13 @@ Rect 21 (left, top, right, bottom): (280, 351, 305, 420), Area: 1725
 Rect 22 (left, top, right, bottom): (340, 372, 369, 442), Area: 2030
 Rect 23 (left, top, right, bottom): (392, 368, 417, 452), Area: 2100
 -----------------Done output_435_768.jpg-------------------------
-Smallest Area: 363-----------------Processing output_163_288.jpg-------------------------
+-----------------Processing output_163_288.jpg-------------------------
 Rect 0 (left, top, right, bottom): (441, 215, 455, 251), Area: 504
 Rect 1 (left, top, right, bottom): (469, 242, 480, 267), Area: 275
 Rect 2 (left, top, right, bottom): (480, 250, 491, 272), Area: 242
 Rect 3 (left, top, right, bottom): (498, 249, 508, 274), Area: 250
 -----------------Done output_163_288.jpg-------------------------
-Smallest Area: 242-----------------Processing output_381_672.jpg-------------------------
+-----------------Processing output_381_672.jpg-------------------------
 Rect 0 (left, top, right, bottom): (529, 84, 547, 137), Area: 954
 Rect 1 (left, top, right, bottom): (188, 82, 204, 131), Area: 784
 Rect 2 (left, top, right, bottom): (246, 104, 265, 156), Area: 988
@@ -239,7 +239,7 @@ Rect 23 (left, top, right, bottom): (358, 359, 382, 421), Area: 1488
 Rect 24 (left, top, right, bottom): (402, 358, 425, 426), Area: 1564
 Rect 25 (left, top, right, bottom): (402, 358, 424, 427), Area: 1518
 -----------------Done output_381_672.jpg-------------------------
-Smallest Area: 242-----------------Processing output_462_816.jpg-------------------------
+-----------------Processing output_462_816.jpg-------------------------
 Rect 0 (left, top, right, bottom): (126, 41, 144, 99), Area: 1044
 Rect 1 (left, top, right, bottom): (538, 43, 561, 110), Area: 1541
 Rect 2 (left, top, right, bottom): (198, 66, 217, 134), Area: 1292
@@ -267,9 +267,9 @@ Rect 23 (left, top, right, bottom): (269, 357, 293, 428), Area: 1704
 Rect 24 (left, top, right, bottom): (333, 378, 364, 453), Area: 2325
 Rect 25 (left, top, right, bottom): (386, 374, 415, 462), Area: 2552
 -----------------Done output_462_816.jpg-------------------------
-Smallest Area: 242-----------------Processing output_54_96.jpg-------------------------
+-----------------Processing output_54_96.jpg-------------------------
 -----------------Done output_54_96.jpg-------------------------
-Smallest Area: 242-----------------Processing output_408_720.jpg-------------------------
+-----------------Processing output_408_720.jpg-------------------------
 Rect 0 (left, top, right, bottom): (168, 67, 184, 120), Area: 848
 Rect 1 (left, top, right, bottom): (531, 71, 551, 127), Area: 1120
 Rect 2 (left, top, right, bottom): (231, 92, 248, 148), Area: 952
@@ -297,7 +297,7 @@ Rect 23 (left, top, right, bottom): (292, 346, 315, 408), Area: 1426
 Rect 24 (left, top, right, bottom): (349, 365, 376, 431), Area: 1782
 Rect 25 (left, top, right, bottom): (397, 361, 423, 437), Area: 1976
 -----------------Done output_408_720.jpg-------------------------
-Smallest Area: 242-----------------Processing output_218_384.jpg-------------------------
+-----------------Processing output_218_384.jpg-------------------------
 Rect 0 (left, top, right, bottom): (341, 224, 355, 262), Area: 532
 Rect 1 (left, top, right, bottom): (435, 196, 448, 232), Area: 468
 Rect 2 (left, top, right, bottom): (359, 237, 372, 268), Area: 403
@@ -314,9 +314,9 @@ Rect 12 (left, top, right, bottom): (310, 282, 324, 313), Area: 434
 Rect 13 (left, top, right, bottom): (338, 295, 351, 329), Area: 442
 Rect 14 (left, top, right, bottom): (358, 303, 373, 337), Area: 510
 -----------------Done output_218_384.jpg-------------------------
-Smallest Area: 242-----------------Processing output_82_144.jpg-------------------------
+-----------------Processing output_82_144.jpg-------------------------
 -----------------Done output_82_144.jpg-------------------------
-Smallest Area: 242-----------------Processing output_190_336.jpg-------------------------
+-----------------Processing output_190_336.jpg-------------------------
 Rect 0 (left, top, right, bottom): (434, 206, 448, 247), Area: 574
 Rect 1 (left, top, right, bottom): (367, 237, 380, 267), Area: 390
 Rect 2 (left, top, right, bottom): (468, 236, 480, 266), Area: 360
@@ -331,9 +331,9 @@ Rect 10 (left, top, right, bottom): (418, 259, 430, 287), Area: 336
 Rect 11 (left, top, right, bottom): (433, 263, 448, 295), Area: 480
 Rect 12 (left, top, right, bottom): (454, 274, 469, 299), Area: 375
 -----------------Done output_190_336.jpg-------------------------
-Smallest Area: 242-----------------Processing output_109_192.jpg-------------------------
+-----------------Processing output_109_192.jpg-------------------------
 -----------------Done output_109_192.jpg-------------------------
-Smallest Area: 242-----------------Processing output_272_480.jpg-------------------------
+-----------------Processing output_272_480.jpg-------------------------
 Rect 0 (left, top, right, bottom): (378, 184, 391, 219), Area: 455
 Rect 1 (left, top, right, bottom): (424, 177, 436, 219), Area: 504
 Rect 2 (left, top, right, bottom): (254, 204, 271, 246), Area: 714
