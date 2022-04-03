@@ -1,4 +1,4 @@
-factor,count,smallest_rect
+Minification factor,Number of BBox,Pixel Count of Smallest BBOX
 0.05,0,0
 0.1,0,0
 0.15,0,0
